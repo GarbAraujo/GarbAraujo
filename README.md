@@ -14,7 +14,7 @@
 </a>
 <br>
 <a href="https://github.com/M4G1Ck/ApiRestful-Java">
-  <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=M4G1Ck&repo=ApiRestful-Java&theme=jolly" />
+  <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=M4G1Ck&repo=ApiRestful-Java&theme=jolly" />
 </a>  
 <a href="https://github.com/M4G1Ck/serraTec2021">
   <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=M4G1Ck&repo=serraTec2021&theme=jolly" />
