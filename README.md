@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning software engineering
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M4G1Ck&theme=gradient&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M4G1Ck&theme=jolly&show_icons=true)
