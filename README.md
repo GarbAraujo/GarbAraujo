@@ -8,3 +8,6 @@
 <a href="https://github.com/marcosbarker/barkerDexPokeAPI">
   <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=M4G1Ck&repo=serratec&theme=jolly" />
 </a>  
+<a href="https://github.com/marcosbarker/barkerDexPokeAPI">
+  <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=M4G1Ck&repo=zeromonMarketPlace&theme=jolly" />
+</a>  
