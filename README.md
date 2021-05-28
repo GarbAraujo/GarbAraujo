@@ -4,4 +4,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M4G1Ck&theme=jolly&show_icons=true)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=M4G1Ck&repo=github-readme-stats)
+<a href="https://github.com/marcosbarker/barkerDexPokeAPI">
+  <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=M4G1Ck&repo=serratec&theme=jolly" />
+</a>  
