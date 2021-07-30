@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M4G1Ck&theme=jolly&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4G1Ck&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4G1Ck&theme=jolly&layout=compact)
 <br>
 
 <a href="https://github.com/M4G1Ck/serratec">
