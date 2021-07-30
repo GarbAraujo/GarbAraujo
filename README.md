@@ -34,6 +34,7 @@
   <a href = "https://steamcommunity.com/id/love_is_true"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
   <a href = "https://open.spotify.com/user/225oat33damz5wwk4rauhx56a?si=9bc48cfa46d84feb"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   <a href="https://account.xbox.com/pt-br/Profile?xr=mebarnav&rtc=1"><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" target="_blank"></a>
+  <br>
   <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToKYNRf5IBChY9YOJggC2YFNzeijU0HLpkqZ3ijcNjI39ftYdGJqcKl9Od7cKtWs8zncM&usqp=CAU"><img src="https://aleen42.github.io/badges/src/mitsubishi.svg" target="_blank"></a>
   <img src="https://img.shields.io/github/followers/M4G1Ck.svg?style=social&label=Follow&maxAge=2592000" target="_blank">
  
