@@ -1,4 +1,4 @@
-## Olá, eu sou o Gabriel Araújo 😄
+## Olá, seja bem-vindo!😄
 
   <div>
     <a href="https://github.com/M4G1Ck">
