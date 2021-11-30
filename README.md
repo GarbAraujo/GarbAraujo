@@ -1,4 +1,4 @@
-## Olá, seja bem-vindo!😄
+## Olá, seja bem-vindo! Sou o Gabriel mas pode me chamar de Garb! 😄
 
   <div>
     <a href="https://github.com/M4G1Ck">
