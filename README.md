@@ -3,7 +3,7 @@ Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um prob
   <div>
     <a href="https://github.com/M4G1Ck">
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M4G1Ck&theme=jolly&show_icons=true">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4G1Ck&theme=jolly&layout=compact">                            
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4G1Ck&langs_count=8&theme=jolly&layout=compact">                            
   </div>
 <br>
 
