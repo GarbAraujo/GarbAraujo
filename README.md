@@ -13,13 +13,6 @@ Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um prob
 - 📫 Feel free to reach me out **gabrielmacedoaraujo.dev@outlook.com**
 <!--Intro end-->
 
-  <div>
-    <a href="https://github.com/M4G1Ck">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M4G1Ck&theme=jolly&show_icons=true">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4G1Ck&langs_count=6&hide=PLpgSQL&theme=jolly&layout=compact">                            
-  </div>
-<br>
-
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
