@@ -10,14 +10,8 @@ Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um prob
 <div style="display: inline_block"><br>
   <img align="center" alt="Garb-Ps" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Garb-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Garb-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Garb-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Garb-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Garb-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Garb-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Garb-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Garb-Post" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
-  <img align="center" alt="Garb-Heroku" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg">
   <img align="center" alt="Garb-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   <img align="center" alt="Garb-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Garb-azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
