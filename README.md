@@ -15,7 +15,7 @@
        alt="snake" /></a>
 </div>
 
-Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema.
+Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema. (Being a developer is a journey where the next stop is solving a problem.)
 
 <!--Intro start-->
 - 🔭 I’m currently working on **AWS, DynamoDB, C#, .NET, Postman, Cypress, JMeter, SoapUI**
@@ -79,3 +79,6 @@ Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um prob
   
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=M4G1Ck" alt="M4G1CK" /> </p>
 </div>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
