@@ -1,5 +1,18 @@
-## Olá, seja bem-vindo! 😄
+## Hi, i'm Garb or Gabriel Araujo 😄
 Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema.
+
+<!--Intro start-->
+- 🔭 I’m currently working on **AWS, DynamoDB, C#, .NET, Postman, Cypress, JMeter, SoapUI**
+
+- 🌱 I am currently learning **test engineering training applied to software in general**
+
+- ☁️ I've keen interest in Front-End and Cloud Computing. So,I'm learning **AWS, React**
+
+- 💬 Ask me about **AWS, C#, JavaScript**
+
+- 📫 Feel free to reach me out **gabrielmacedoaraujo.dev@outlook.com**
+<!--Intro end-->
+
   <div>
     <a href="https://github.com/M4G1Ck">
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M4G1Ck&theme=jolly&show_icons=true">
