@@ -11,8 +11,9 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
+  </a>
 </div>
 
 Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema. (Being a developer is a journey where the next stop is solving a problem.)
