@@ -14,7 +14,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema. (Being a developer is a journey where the next stop is solving a problem.)
+Ser engenheiro de qualidade de software é uma jornada onde a próxima parada é garantir que cada solução funcione de forma impecável. (Being a software quality engineer is a journey where the next stop is ensuring every solution works flawlessly.)
 
 <!--Intro start-->
 - 🔭 I’m currently working on **AWS, DynamoDB, C#, .NET, Postman, Cypress, JMeter, SoapUI**
