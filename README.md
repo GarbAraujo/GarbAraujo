@@ -25,7 +25,7 @@ Being a software quality engineer is a journey where the next stop is ensuring e
 
 - 💬 Ask me about **AWS, C#, JavaScript**
 
-- 📫 Feel free to reach me out **gabrielmacedoaraujo.dev@outlook.com**
+- 📫 Feel free to reach me out **gabrielmacedoaraujo.dev@gmail.com**
 <!--Intro end-->
 
 <!--- stats & Trophy (start) -->
